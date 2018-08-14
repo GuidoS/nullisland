@@ -12,7 +12,7 @@ If you are attending the FOSS4G Dar es Salaam 2018 conference keep a look out fo
 
 
 ## What People are sharing
-<a href="https://twitter.com/intent/tweet?button_hashtag=FOSS4G&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #FOSS4G</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/GuidoS?ref_src=twsrc%5Etfw">Tweets by GuidoS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## FAQ
 
