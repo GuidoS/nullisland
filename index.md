@@ -1,5 +1,3 @@
-# Null Island NaN K Run
-
 ![Null Island NaN K Run Logo](https://raw.githubusercontent.com/GuidoS/nullisland/master/NINaNk.png)
 
 ## Welcome
