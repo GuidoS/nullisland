@@ -1,5 +1,7 @@
 # Null Island NaN K Run
+
 ![Null Island NaN K Run Logo](https://raw.githubusercontent.com/GuidoS/nullisland/master/NINaNk.png)
+
 ## Welcome
 
 Welcome to the **Null Island NaN K Run**. This classic run features a scenic NaN kilometer course around Null Island and supports all the individuals who champion Open Source Geospatial around the world. We welcome all to join us in this incredible run.
